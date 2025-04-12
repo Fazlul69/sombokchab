@@ -10309,7 +10309,7 @@ textarea {
 }
 
 .shop-details-thums {
-  height: 800px;
+  /* height: 800px; */
   padding: 10px;
 }
 .shop-details-thums img {
