@@ -16,11 +16,11 @@
 }
 
 #media_upload_modal .modal-dialog {
-    max-width: calc(100% - 40px);
+    max-width: calc(100% - 60px);
 }
 
 #media_upload_modal .modal-body {
-    max-height: 600px;
+    max-height: 400px;
     overflow-y: scroll;
     padding-bottom: 0;
 }
