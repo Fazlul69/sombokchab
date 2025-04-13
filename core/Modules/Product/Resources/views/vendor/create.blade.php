@@ -83,7 +83,7 @@
                         </div>
                     </div>
                     <div class="col-sm-8 col-md-9 col-lg-8 col-xl-9 col-xxl-10">
-                        <form data-request-route="{{ route('vendor.products.create') }}" method="post"
+                        <form class="was-validated" data-request-route="{{ route('vendor.products.create') }}" method="post"
                             id="product-create-form">
                             @csrf
                             <div class="form-button">

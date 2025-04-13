@@ -1,2 +1,5 @@
 core/storage
 core/vendor
+core/storage *
+core/storage/framework/cache/data/**
+
